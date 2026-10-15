@@ -1,0 +1,22 @@
+{
+  "name": "Opero Ajo",
+  "short_name": "Ajo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#03122c",
+  "theme_color": "#03122c",
+  "icons": [
+    {
+      "src": "assets/opero-ajo-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/opero-ajo-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
